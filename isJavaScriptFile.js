@@ -9,3 +9,7 @@ function isJavaScriptFile(fileName){
 }
 let result = isJavaScriptFile("index.js");
 console.log(result);
+
+// method-2
+// return fileName.endsWith('.js') 
+   
