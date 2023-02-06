@@ -1,4 +1,4 @@
-/*n=10
+/* 1 to n projonto sonkkhar jogfol nirnoy
 1+2+3+...+n=
 */ 
 
