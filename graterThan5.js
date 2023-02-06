@@ -41,7 +41,7 @@ function graterThanFive(numbers){
             count++;
         }
         else{
-            continue
+            continue;
         }
     }
     return count;
